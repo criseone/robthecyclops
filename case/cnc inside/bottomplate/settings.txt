@@ -1,0 +1,3 @@
+Material type: MDF
+Material dimensions: 200 mm x 200 mm x 4.999999999999999 mm
+Bit: 0.0625 in, Upcut
